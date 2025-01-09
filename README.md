@@ -1,9 +1,7 @@
 # CODSOFT-MACHINELEARNING
 
 
-Here's a suggested README file for your machine learning internship, detailing the tasks you've completed:
 
----
 
 # Machine Learning Internship Projects
 
