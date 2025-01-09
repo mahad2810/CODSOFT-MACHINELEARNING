@@ -1,8 +1,6 @@
 # CODSOFT-MACHINELEARNING
 
 
-
-
 # Machine Learning Internship Projects
 
 This repository contains the work completed during my machine learning internship. Each task showcases a different aspect of machine learning, from text classification and hyperparameter tuning to churn prediction and spam detection. Below is a detailed description of each task.
