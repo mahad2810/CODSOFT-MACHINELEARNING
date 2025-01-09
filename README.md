@@ -86,30 +86,31 @@ Developed a system to classify SMS messages as spam or ham (not spam).
 
 ---
 
+Here’s the revised **How to Use** section based on your updated instructions:
+
+---
+
 ## **How to Use**
 
-1. Clone this repository:
+1. Clone this repository and navigate to it:
    ```bash
    git clone <repository_url>
    cd <repository_name>
    ```
 
-2. Ensure you have the required dependencies installed:
+2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run individual scripts for each task:
-   - Task 1: Genre Classification  
-     ```bash
-     python task1_genre_classification.py
-     ```
-   - Task 3: Customer Churn Prediction  
-     ```bash
-     python task3_churn_prediction.py
-     ```
-   - Task 4: Spam Classification  
-     ```bash
-     python task4_spam_classification.py
-     ```
+3. Open Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
 
+4. In Jupyter Notebook, open and run the respective files for each task:
+   - **Task 1:** Open and run `task1.ipynb`  
+   - **Task 3:** Open and run `task3.ipynb`  
+   - **Task 4:** Open and run `task4.ipynb`  
+
+--- 
